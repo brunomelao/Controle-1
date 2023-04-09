@@ -16,8 +16,8 @@ frequência $\it{f}$ , com o valor $\omega_d$ correspondente. Compare o valor de
 dominantes do item (a), usando os comentários para falar da relação entre ambos.
 
 Item d) Aplicar uma rampa na referência r(t) e gerar o gráfico da resposta no tempo para a saída c(t), com 200s de
-simulação. Calcular com o código o valor da constante de velocidade K$_v$ para G(s) e o erro de regime
-permanente para a constante K$_v$ calculada. Compare o erro de regime permanente calculado com o erro
+simulação. Calcular com o código o valor da constante de velocidade $K_v$ para G(s) e o erro de regime
+permanente para a constante $K_v$ calculada. Compare o erro de regime permanente calculado com o erro
 apresentado pelo gráfico da saída e comente a comparação.
 
 Item e)Projetar, através do código, um compensador Gc(s) com $\gamma \neq \beta(\gamma > 1 \space e \space \beta > 1)$, em série com G(s), para
