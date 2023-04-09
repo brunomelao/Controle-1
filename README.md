@@ -2,9 +2,7 @@
 
 Considere o sistema de controle abaixo.Para este sistema, faça com MatLab ou Python um código para:
 
-\begin{equation}
-G(s)=\frac{7}{s(s+1.5)(s+2.5)}
-\end{equation}
+$G(s)=\frac{7}{s(s+1.5)(s+2.5)}$
 
 Item a) Construir o gráfico do Lugar das Raízes (LR). Destacar no gráfico do LR os polos de malha fechada de ganho
 unitário e incluir a reta de amortecimento $\zeta$ e círculo de $\omega_n$ destes polos dominantes. Adicionar também ao LR
@@ -14,7 +12,7 @@ Item b) Aplicar um degrau unitário na referência r(t) e gerar o gráfico da re
 de simulação. Utilize um vetor de tempo t, com intervalos de 0,01s , até 50s.
 
 Item c) A partir da saída c(t) para o degrau unitário, obter, através do código, o valor do sobressinal percentual e da
-frequência $\it{f}$, com o valor $\omega_d$ correspondente. Compare o valor de ωd obtido com a parte imaginária dos polos
+frequência $\it{f}$ , com o valor $\omega_d$ correspondente. Compare o valor de ωd obtido com a parte imaginária dos polos
 dominantes do item (a), usando os comentários para falar da relação entre ambos.
 
 Item d) Aplicar uma rampa na referência r(t) e gerar o gráfico da resposta no tempo para a saída c(t), com 200s de
