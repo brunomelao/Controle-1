@@ -20,7 +20,7 @@ simulação. Calcular com o código o valor da constante de velocidade $K_v$ par
 permanente para a constante $K_v$ calculada. Compare o erro de regime permanente calculado com o erro
 apresentado pelo gráfico da saída e comente a comparação.
 
-Item e)Projetar, através do código, um compensador Gc(s) com $\gamma \neq \beta(\gamma > 1 \space e \space \beta > 1)$, em série com G(s), para
+Item e) Projetar, através do código, um compensador Gc(s) com $\gamma \neq \beta(\gamma > 1 \space e \space \beta > 1)$, em série com G(s), para
 aumentar o amortecimento $\zeta$ dos polos dominantes para 0,4 e para ajustar a frequência natural não amortecida
 $\omega_n$ para 2 rad/s. Este compensador também deve reduzir em 5 vezes o erro de regime permanente para entrada
 em rampa. Fazer uma busca para a sintonia do compensador Gc(s), de forma que, para a entrada ao degrau
